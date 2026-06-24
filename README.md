@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Danilo Gallego 👋
 
-<!--
-**danyd686/danyd686** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst focused on SQL, Python, Business Intelligence and Reporting.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SQL
+- Python
+- Excel
+- Business Intelligence
+- Data Visualization
+- KPI Analysis
+
+## Projects
+
+### AdventureWorks ROI Analysis
+
+Financial performance analysis across international markets.
+
+### Urban Mobility Analysis
+
+Urban mobility and economic productivity analysis across LATAM cities.
+
+### Mercado Libre Funnel Analysis
+
+User retention and conversion funnel analysis.
+
+## Contact
+
+Email: danyd686@gmail.com
+
+LinkedIn: www.linkedin.com/in/danilogallego
