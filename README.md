@@ -8,11 +8,15 @@ I work with SQL, Python, Excel, and Google Sheets to clean, analyze, transform, 
 Currently building projects focused on Business Intelligence, Sales Analytics, Customer Insights, Reporting, and Product Analytics.
 ### Urban Mobility Analysis
 
-Urban mobility and economic productivity analysis across LATAM cities.
+---
 
-### Mercado Libre Funnel Analysis
+## 🚀 About Me
 
-User retention and conversion funnel analysis.
+- 📍 Based in Bogotá, Colombia  
+- 📊 Data Analyst focused on Reporting and Business Intelligence  
+- 🎓 Data Analytics student at TripleTen  
+- 🌎 Experience in Sales, Customer Operations, and international BPO environments  
+- 📈 Interested in Data Analysis, BI, Reporting, Customer Insights, and Product Analytics
 
 ## Contact
 
