@@ -1,22 +1,11 @@
-# Hi, I'm Danilo Gallego 👋
 
-Data Analyst focused on SQL, Python, Business Intelligence and Reporting.
+# Hi there, I'm Danilo Gallego 👋
 
-## Skills
+Data Analyst focused on transforming data into business insights through analytics, reporting, and business intelligence.
 
-- SQL
-- Python
-- Excel
-- Business Intelligence
-- Data Visualization
-- KPI Analysis
+I work with SQL, Python, Excel, and Google Sheets to clean, analyze, transform, and visualize data that supports strategic decision-making.
 
-## Projects
-
-### AdventureWorks ROI Analysis
-
-Financial performance analysis across international markets.
-
+Currently building projects focused on Business Intelligence, Sales Analytics, Customer Insights, Reporting, and Product Analytics.
 ### Urban Mobility Analysis
 
 Urban mobility and economic productivity analysis across LATAM cities.
