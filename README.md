@@ -18,8 +18,51 @@ Currently building projects focused on Business Intelligence, Sales Analytics, C
 - 🌎 Experience in Sales, Customer Operations, and international BPO environments  
 - 📈 Interested in Data Analysis, BI, Reporting, Customer Insights, and Product Analytics
 
-## Contact
+---
 
-Email: danyd686@gmail.com
+## 🛠️ Tech Stack
 
-LinkedIn: www.linkedin.com/in/danilogallego
+**Languages & Databases**
+
+- SQL (PostgreSQL, MySQL)  
+- Python  
+
+**Libraries**
+
+- Pandas  
+- NumPy  
+- Matplotlib  
+
+**Tools**
+
+- Excel  
+- Google Sheets  
+- Jupyter Notebook  
+- Git  
+- GitHub
+
+---
+
+## 📂 Featured Projects
+
+### 💰 AdventureWorks Financial Performance & Marketing ROI Analysis
+
+Business analysis across international markets focused on profitability, ROI, and financial performance.
+
+🔗 [View Repository](https://github.com/danyd686/AdventureWorks---Financial-Performance-Marketing-ROI-Analysis)
+
+---
+
+### 🌎 Urban Mobility & Economic Productivity Analysis
+
+Urban mobility and economic analysis across LATAM cities focused on infrastructure investment opportunities.
+
+🔗 [View Repository](https://github.com/danyd686/urban-mobility-economic-analysis)
+
+---
+
+## 📫 Contact
+
+📧 Email: danyd686@gmail.com  
+
+💼 LinkedIn: www.linkedin.com/in/danilogallego  
