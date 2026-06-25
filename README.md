@@ -4,8 +4,8 @@
 Data Analyst focused on transforming data into business insights through analytics, reporting, and business intelligence.
 
 I work with SQL, Python, Excel, and Google Sheets to clean, analyze, transform, and visualize data that supports strategic decision-making.
-
 Currently building projects focused on Business Intelligence, Sales Analytics, Customer Insights, Reporting, and Product Analytics.
+
 ---
 
 ## 🚀 About Me
