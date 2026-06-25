@@ -7,10 +7,13 @@
 ![Business Intelligence](https://img.shields.io/badge/BI-Business%20Intelligence-orange)
 ![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)
 
-Data Analyst focused on transforming data into business insights through analytics, reporting, and business intelligence.
+Data Analyst with a strong interest in Business Intelligence, Reporting, and data-driven decision making.
 
-I work with SQL, Python, Excel, and Google Sheets to clean, analyze, transform, and visualize data that supports strategic decision-making.
-Currently building projects focused on Business Intelligence, Sales Analytics, Customer Insights, Reporting, and Product Analytics.
+I work with SQL, Python, Excel, Google Sheets, and data visualization tools to collect, clean, analyze, and transform data into actionable insights.
+
+My main interests include Sales Analytics, Customer Insights, Product Analytics, and Business Performance Analysis.
+
+My professional goal is to grow as a Data Analyst while helping organizations make smarter decisions through data.
 
 ---
 
