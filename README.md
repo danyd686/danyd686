@@ -83,7 +83,3 @@ Urban mobility and economic analysis across LATAM cities focused on infrastructu
 
 ---
 
-## 📊 GitHub Stats
-
-![Danilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=danyd686&show_icons=true)
-
