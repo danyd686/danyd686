@@ -48,6 +48,7 @@ My professional goal is to grow as a Data Analyst while helping organizations ma
 - Git  
 - GitHub
 ---
+## 📂 Featured Projects
 
 ### ☎️ ConnectaTel - Customer Usage Analysis
 
@@ -56,8 +57,6 @@ This project analyzes customer behavior for ConnectaTel, a telecommunications co
 🔗 [View Repository](https://github.com/danyd686/Connectatel-analysis)
 
 ---
-
-## 📂 Featured Projects
 
 ### 💰 AdventureWorks Financial Performance & Marketing ROI Analysis
 
