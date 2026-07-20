@@ -47,6 +47,13 @@ My professional goal is to grow as a Data Analyst while helping organizations ma
 - Jupyter Notebook  
 - Git  
 - GitHub
+---
+
+### ☎️ ConnectaTel - Customer Usage Analysis
+
+This project analyzes customer behavior for ConnectaTel, a telecommunications company operating in Mexico and Colombia.
+
+🔗 [View Repository](https://github.com/danyd686/Connectatel-analysis)
 
 ---
 
