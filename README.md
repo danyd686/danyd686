@@ -47,6 +47,8 @@ My professional goal is to grow as a Data Analyst while helping organizations ma
 - Jupyter Notebook  
 - Git  
 - GitHub
+- Tableau
+- Power BI
 ---
 ## 📂 Featured Projects
 
