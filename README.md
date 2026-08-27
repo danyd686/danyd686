@@ -32,7 +32,7 @@ My professional goal is to grow as a Data Analyst while helping organizations ma
 **Languages & Databases**
 
 - SQL (PostgreSQL, MySQL)  
-- Python  
+- Python (advanced)
 
 **Libraries**
 
