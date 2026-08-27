@@ -9,7 +9,7 @@
 
 Data Analyst with a strong interest in Business Intelligence, Reporting, and data-driven decision making.
 
-I work with SQL, Python, Excel, Google Sheets, and data visualization tools to collect, clean, analyze, and transform data into actionable insights.
+I work with SQL, Python, Excel, Google Sheets, and data visualization tools (tableau, Power BI)  to collect, clean, analyze, and transform data into actionable insights.
 
 My main interests include Sales Analytics, Customer Insights, Product Analytics, and Business Performance Analysis.
 
