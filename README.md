@@ -14,8 +14,8 @@ I enjoy turning business data into clear insights that help teams understand per
 
 I work with SQL, Python, Excel, Google Sheets, Tableau, and Power BI to collect, clean, transform, and analyze data, build dashboards, track KPIs, and communicate insights.
 My main areas of interest include Sales Analytics, Customer Insights, Business Performance, Commercial Analytics, and Business Intelligence.
-
 I bring a combination of B2B Sales, Customer Operations, and Data Analytics experience, which allows me to understand both the business context and the data behind it.
+
 ---
 
 ## 🚀 About Me
