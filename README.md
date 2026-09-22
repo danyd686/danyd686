@@ -6,6 +6,8 @@
 ![Excel](https://img.shields.io/badge/Excel-Reporting-green)
 ![Business Intelligence](https://img.shields.io/badge/BI-Business%20Intelligence-orange)
 ![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)
+![Tableau](https://img.shields.io/badge/Tableau-Portfolio-E97627?logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-Portfolio-F2C811?logo=powerbi&logoColor=black)
 
 Data Analyst with a strong interest in Business Intelligence, Reporting, and data-driven decision making.
 
