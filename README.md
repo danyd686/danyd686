@@ -9,23 +9,24 @@
 ![Tableau](https://img.shields.io/badge/Tableau-Portfolio-E97627?logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Portfolio-F2C811?logo=powerbi&logoColor=black)
 
-Data Analyst with a strong interest in Business Intelligence, Reporting, and data-driven decision making.
+Data Analyst focused on Business Intelligence, Reporting, Sales Analytics, and data-driven decision making.
 
-I work with SQL, Python, Excel, Google Sheets, and data visualization tools (tableau, Power BI)  to collect, clean, analyze, and transform data into actionable insights.
+I enjoy turning business data into clear insights that help teams understand performance, identify opportunities, and make better decisions.
 
-My main interests include Sales Analytics, Customer Insights, Product Analytics, and Business Performance Analysis.
+I work with SQL, Python, Excel, Google Sheets, Tableau, and Power BI to collect, clean, transform, and analyze data, build dashboards, track KPIs, and communicate insights.
 
-My professional goal is to grow as a Data Analyst while helping organizations make smarter decisions through data.
+My main areas of interest include Sales Analytics, Customer Insights, Business Performance, Commercial Analytics, and Business Intelligence.
 
+I bring a combination of B2B Sales, Customer Operations, and Data Analytics experience, which allows me to understand both the business context and the data behind it.
 ---
 
 ## 🚀 About Me
-
-- 📍 Based in Bogotá, Colombia  
-- 📊 Data Analyst focused on Reporting and Business Intelligence  
-- 🎓 Data Analytics student at TripleTen  
-- 🌎 Experience in Sales, Customer Operations, and international BPO environments  
-- 📈 Interested in Data Analysis, BI, Reporting, Customer Insights, and Product Analytics
+- 📍 Based in Bogotá, Colombia
+- 📊 Data Analyst focused on Business Intelligence, Reporting, and Sales Analytics
+- 🎓 Data Analytics student at TripleTen
+- 💼 Experience in B2B Sales, Customer Operations, and international BPO environments
+- 📈 Interested in Sales Analytics, Commercial Analytics, Customer Insights, and Business Performance
+- 🔎 Currently building projects focused on business analysis, KPIs, dashboards, funnels, profitability, and customer behavior
 
 ---
 
@@ -38,19 +39,33 @@ My professional goal is to grow as a Data Analyst while helping organizations ma
 
 **Libraries**
 
-- Pandas  
-- NumPy  
-- Matplotlib  
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+  
+**BI & Data Visualization**
+- Tableu 
+- Power BI
+- Google Sheets
+- Excel
+
+**Data Analytics**
+- Data Cleaning
+- Data Transformation
+- Exploratory Data Analysis (EDA)
+- KPI Analysis
+- Funnel Analysis
+- Cohort Analysis
+- A/B Testing Fundamentals
+- Business Analytics
+- Data Visualization
+- Data Storytelling
 
 **Tools**
-
-- Excel  
-- Google Sheets  
-- Jupyter Notebook  
-- Git  
+- Jupyter Notebook
+- Git
 - GitHub
-- Tableau
-- Power BI
 ---
 ## 📂 Featured Projects
 
