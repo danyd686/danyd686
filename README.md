@@ -65,6 +65,15 @@ I bring a combination of B2B Sales, Customer Operations, and Data Analytics expe
 - Git
 - GitHub
 ---
+
+## 📫 Contact
+
+📧 Email: danyd686@gmail.com  
+
+💼 LinkedIn: www.linkedin.com/in/danilogallego  
+
+---
+
 ## 📂 Featured Projects
 
 ### ☎️ ConnectaTel - Customer Usage Analysis
@@ -90,12 +99,3 @@ Urban mobility and economic analysis across LATAM cities focused on infrastructu
 🔗 [View Repository](https://github.com/danyd686/urban-mobility-economic-analysis)
 
 ---
-
-## 📫 Contact
-
-📧 Email: danyd686@gmail.com  
-
-💼 LinkedIn: www.linkedin.com/in/danilogallego  
-
----
-
